@@ -1,8 +1,6 @@
 package com.ambientideas;
 
 /**
- * Hello again
- * Hello world!
  * Hello
  */
 public class App 
