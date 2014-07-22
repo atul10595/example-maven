@@ -38,7 +38,8 @@ public class AppTest
      */
     public void testApp()
     {
-        // FeatureA - assert false to demonstrate Commit Status
+        // FeatureA
+        // Assert false to demonstrate Commit Status
         assertTrue( false );
     }
 }
